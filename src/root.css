@@ -1,0 +1,13 @@
+@import url(../styles/main.css);
+@import url(../styles/about.css);
+@import url(../styles/queries.css); 
+@import url(../styles/footer.css);
+@import url(../styles/font-config.css);
+
+*{
+    font-family: clash-grotesk;
+    color: white;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
